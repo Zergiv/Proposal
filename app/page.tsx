@@ -647,11 +647,11 @@ export default function Home() {
       options: [
         { text: "¡10 años!", message: "¿10 años? Exageraste un poco." },
         { text: "Yo soy mayor, por 10 meses", message: "No, tú eres la mayor." },
-        { text: "Tú eres mayor, por 10 meses", message: "Eso es una canción, no nuestra historia." },
+        { text: "Tú eres mayor, por 10 meses", message: "Bro? Respeta" },
         { text: "40 y 20 🗣️🗣️", message: "" }, // Respuesta correcta
       ],
       correctAnswer: "40 y 20 🗣️🗣️",
-      explanation: "Correcto, tú eres mayor por 10 meses.",
+      explanation: "Correcto, 40 y 20",
     },
     {
       question: "¿Qué es lo que más te molesto seguido?",
